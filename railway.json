@@ -1,0 +1,7 @@
+{
+  "name": "Framer CMS Content API",
+  "description": "REST API for SEO blog content delivery to Framer CMS",
+  "env": {
+    "RAILWAY_ENVIRONMENT": "production"
+  }
+}
